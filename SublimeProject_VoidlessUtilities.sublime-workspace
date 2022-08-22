@@ -1,0 +1,1680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"static"
+			],
+			[
+				"en",
+				"entities"
+			],
+			[
+				"radius",
+				"radiusY"
+			],
+			[
+				"local",
+				"localPosition"
+			],
+			[
+				"locl",
+				"localPosition"
+			],
+			[
+				"acc",
+				"accumulatedPaternRotations"
+			],
+			[
+				"accu",
+				"accumulatedPaternRotations"
+			],
+			[
+				"Tr",
+				"Transform"
+			],
+			[
+				"loca",
+				"localScale"
+			],
+			[
+				"Update",
+				"UpdateParents"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"virtua",
+				"virtualChildren"
+			],
+			[
+				"virt",
+				"virtualParents"
+			],
+			[
+				"Virtua",
+				"VirtualTransform"
+			],
+			[
+				"Virt",
+				"VirtualTransform"
+			],
+			[
+				"value",
+				"valuePower"
+			],
+			[
+				"lay",
+				"layerMask"
+			],
+			[
+				"_l",
+				"_layerInteger"
+			],
+			[
+				"Layer",
+				"LayerInteger"
+			],
+			[
+				"Lay",
+				"LayerInteger"
+			],
+			[
+				"L",
+				"LayerInteger"
+			],
+			[
+				"la",
+				"layerMask"
+			],
+			[
+				"va",
+				"valuePower"
+			],
+			[
+				"_va",
+				"_valuePower"
+			],
+			[
+				"Gt",
+				"GetActiveFlagsCount"
+			],
+			[
+				"boo",
+				"bottomLeftPoint"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"H",
+				"HotCollider2D"
+			],
+			[
+				"_obje",
+				"_object"
+			],
+			[
+				"_log",
+				"_logwarn\tDebug Log Warning"
+			],
+			[
+				"_in",
+				"_touchIndex"
+			],
+			[
+				"Inpu",
+				"Input"
+			],
+			[
+				"In",
+				"Infinity"
+			],
+			[
+				"UNITY",
+				"UNITY_EDITOR"
+			],
+			[
+				"Ray",
+				"RaycastHit"
+			],
+			[
+				"Input",
+				"InputState"
+			],
+			[
+				"PC",
+				"PCControllerSetup"
+			],
+			[
+				"_col",
+				"_collider"
+			],
+			[
+				"on",
+				"onSightEnter"
+			],
+			[
+				"eve",
+				"eventType"
+			],
+			[
+				"Onsi",
+				"OnSightEnter2D"
+			],
+			[
+				"On",
+				"OnSightExit2D"
+			],
+			[
+				"near",
+				"nearPlane"
+			],
+			[
+				"nea",
+				"nearX"
+			],
+			[
+				"ang",
+				"halfAngle"
+			],
+			[
+				"far",
+				"farX"
+			],
+			[
+				"ne",
+				"nearPlane"
+			],
+			[
+				"new",
+				"newPoints"
+			],
+			[
+				"len",
+				"sightLength"
+			],
+			[
+				"Cont",
+				"ContainsKey"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"_cp",
+				"_component"
+			],
+			[
+				"Get",
+				"GetInstanceID"
+			],
+			[
+				"Unity",
+				"UnityObjectID"
+			],
+			[
+				"Uni",
+				"UnityObjectID"
+			],
+			[
+				"U",
+				"UnityObjectID"
+			],
+			[
+				"chil",
+				"childCount"
+			],
+			[
+				"_regi",
+				"_registerChildren"
+			],
+			[
+				"_re",
+				"_re\tReturn documentation"
+			],
+			[
+				"_tr",
+				"_transform"
+			],
+			[
+				"_reg",
+				"_registerChildren"
+			],
+			[
+				"Tra",
+				"Transform"
+			],
+			[
+				"Allo",
+				"AllowSceneActivation"
+			],
+			[
+				"defa",
+				"_defaultWait"
+			],
+			[
+				"LI",
+				"PROGRESS_LIMIT"
+			],
+			[
+				"Loa",
+				"LoadSceneMode"
+			],
+			[
+				"Load",
+				"LoadScene"
+			],
+			[
+				"ifini",
+				"IFiniteStateAgent"
+			],
+			[
+				"patroll",
+				"patrollingState"
+			],
+			[
+				"T",
+				"T"
+			],
+			[
+				"State",
+				"StateTransition"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"Chan",
+				"ChangeState"
+			],
+			[
+				"Stat",
+				"StateTransition"
+			],
+			[
+				"nor",
+				"normalizedTime"
+			],
+			[
+				"Nor",
+				"NormalizedDuration"
+			],
+			[
+				"squ",
+				"squareDistance"
+			],
+			[
+				"co",
+				"countdownWait"
+			],
+			[
+				"count",
+				"countdownDuration"
+			],
+			[
+				"coun",
+				"countdownDuration"
+			],
+			[
+				"Is",
+				"Instance"
+			],
+			[
+				"Wait",
+				"DoWhileWaiting"
+			],
+			[
+				"Co",
+				"CountdownTimer"
+			],
+			[
+				"current",
+				"currentState"
+			],
+			[
+				"A",
+				"AgentStatePredicate"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Cas",
+				"CastAbility"
+			],
+			[
+				"Acc",
+				"AccelerableRigidbodyDashingAbility"
+			],
+			[
+				"Da",
+				"dash"
+			],
+			[
+				"D",
+				"AccelerableDashingAbility"
+			],
+			[
+				"Abil",
+				"AbilityState"
+			],
+			[
+				"as",
+				"abstract"
+			],
+			[
+				"de",
+				"detectableHitEvents"
+			],
+			[
+				"S",
+				"Stay"
+			],
+			[
+				"Typ",
+				"HitColliderEventTypes"
+			],
+			[
+				"Ty",
+				"HitColliderEventTypes"
+			],
+			[
+				"_mono",
+				"_monoBehaviour"
+			],
+			[
+				"_trie",
+				"_triex\tOnTriggerExit Shortcut"
+			],
+			[
+				"Hit",
+				"HitColliderEventTypes"
+			],
+			[
+				"TY",
+				"HitColliderEventTypes"
+			],
+			[
+				"affec",
+				"affectedTags"
+			],
+			[
+				"Be",
+				"BehaviorTree"
+			],
+			[
+				"Beha",
+				"BehaviorTree"
+			],
+			[
+				"Beh",
+				"BehaviorTree"
+			],
+			[
+				"Tree",
+				"TreeStatePredicate"
+			],
+			[
+				"void",
+				"VoidlessYieldInstruction"
+			],
+			[
+				"B",
+				"BehaviorTreeNode"
+			],
+			[
+				"I",
+				"IComposite"
+			],
+			[
+				"Base",
+				"BaseBehaviorTreeNode"
+			],
+			[
+				"Agent",
+				"AgentState"
+			],
+			[
+				"_inst",
+				"_instance"
+			],
+			[
+				"ec",
+				"executionEnumerator"
+			],
+			[
+				"OnE",
+				"OnExecuteState"
+			],
+			[
+				"GUI",
+				"GUIDebugger"
+			],
+			[
+				"Draw",
+				"DrawGizmos"
+			],
+			[
+				"Dra",
+				"DrawGizmos"
+			],
+			[
+				"Res",
+				"Restarted"
+			],
+			[
+				"mono",
+				"monoBehaviourDependency"
+			],
+			[
+				"enum",
+				"enumerator"
+			],
+			[
+				"n",
+				"normalizedTime"
+			],
+			[
+				"R",
+				"Running"
+			],
+			[
+				"behavi",
+				"BehaviorState"
+			],
+			[
+				"Behav",
+				"BehaviorState"
+			],
+			[
+				"Star",
+				"StartBehavior"
+			],
+			[
+				"gra",
+				"gravityMultiplier"
+			],
+			[
+				"accelera",
+				"accelerationNormal"
+			],
+			[
+				"speed",
+				"speed"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/My Documents/Adobe/Illustrator/Thesis/Code/Thesis_Code_0",
+			"settings":
+			{
+				"buffer_size": 4631,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/My Documents/Math Ecuations/CodeCogs_EquationEditor_EquationCodes",
+			"settings":
+			{
+				"buffer_size": 7388,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessVector3.cs",
+			"settings":
+			{
+				"buffer_size": 19294,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Scripts/TESTEventSystem.cs",
+			"settings":
+			{
+				"buffer_size": 1894,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "Package Control: inst",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gitgut",
+				"GitGutter: Support Info"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitt",
+				"Preferences: GitGutter Settings - User"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"gitg",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"gittg",
+				"GitGutter: Support Info"
+			],
+			[
+				"Package Control:",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 609.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities"
+	],
+	"file_history":
+	[
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/VoidlessMath.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PVehicle.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PSketch.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PTransform2D.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PTransform.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PTriangleRenderer.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/VoidlessPVector.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PEntity.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Speed.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Physics.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/SublimeProject_VoidlessUtilities.sublime-project",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PEllipseRenderer.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PColor.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PCollider.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PQuaternion.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PRectCollider.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PRenderer.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PScriptedBehavior.java",
+		"/D/My Documents/Eclipse Workspace/Voidless Utilities/src/VoidlessUtilities/Processing/PComponent.java",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/RigidbodyVelocityAccumulator.cs",
+		"/D/My Documents/Unity Projects/[UCQ]MilitaryFormationsSimulator/Assets/Scripts/Data Structures/GameObjectPool.cs",
+		"/D/My Documents/Unity Projects/[UCQ]MilitaryFormationsSimulator/Assets/Scripts/UIs/SoldierButton.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Structures/ComponentMap.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/MaterialProperty.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/LayerInteger.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Scripts/TESTLayerMask.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessInteger.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessEnums.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/NormalizedVector2.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessVector2.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessExtensionMethods.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/NormalizedVector3.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessVector3.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Hit-Boxes/HitCollider2D.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Hit-Boxes/HitCollider.cs",
+		"/D/My Documents/Unity Projects/[UCQThesis]SyntheticArtificialIntelligence/Assets/Scripts/Bugs/Character.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Input Controller/PCControllerSetup.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/InputController.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Cameras/CameraViewportPlane.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Cameras/BaseCamera.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/FOV/FOVSight.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/FOV/FOVSight2D.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessXMLSerializer.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/IGUIDebuggable.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Behavior Trees/Composites/SelectorComposite.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Behavior Trees/BehaviorTree.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Numeric Values/NormalizedProperty.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessInterfaces.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/ILife.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Vehicles/IVehicle.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Vehicles/IVehicle2D.cs",
+		"/D/My Documents/Unity Projects/[UCQThesis]SyntheticArtificialIntelligence/Assets/Voidless Utilities/Scripts/Interfaces/ILife.cs",
+		"/D/My Documents/Unity Projects/[UCQThesis]SyntheticArtificialIntelligence/Assets/Scripts/Unit.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Behavior Trees/BaseBehaviorTree.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Object Pooling/IPoolObject.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Vehicles/IBaseVehicle.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessRigidbody2D.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessRigidbody.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Object Pooling/GameObjectPool.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/RaycastChecker/Ray Sensor 3D/SensorRaySystem3D.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/UnityObjectID.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Transform/TransformInformation.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessColor.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessColor32.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Fuzzy Logic/FuzzySubset.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Fuzzy Logic/FuzzyResult.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Fuzzy Logic/FuzzySystem.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/AnimatorCredential.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Entity ComponentSystem/IComponent.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Entity ComponentSystem/IComposite.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Entity ComponentSystem/IDecorator.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Entity ComponentSystem/ILeaf.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/GUIs/GaugeBarGUI.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessAudio.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/NormalizedDuration.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/GUIs/HPBarGUI.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/IConstrainedValue.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessCoroutines.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/Range.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Custom Yield Instructions/VoidlessYieldInstruction.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Finite State Machine/FiniteStateMachine.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Custom Yield Instructions/SecondsDelayWait.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Finite State Machine/States/StateTransition.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessCollections.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Weapons/Gun.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessMath.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Dash/Accelerable Dashing Abilities/AccelerableRigidbodyDashingAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Shoot/ShootAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessGizmos.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Transform/TransformData.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Scene Loading/AsynchronousSceneLoader.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Cubemap/CubemapData.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/Distance.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Finite State Machine/IFiniteStateAgent.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Finite State Machine/States/ScriptableState.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Tests/TESTFiniteStateMachine.cs",
+		"/D/My Documents/Unity Projects/[UCQ]NoIdeaProject/Assets/Scripts/Player/Player.cs",
+		"/D/My Documents/Unity Projects/[UCQ]NoIdeaProject/Assets/Scripts/Enemies/States/Meelee/MeeleeEnemyAttackingState.cs",
+		"/D/My Documents/Unity Projects/[UCQ]NoIdeaProject/Assets/Scripts/Enemies/Meelee Enemies/MeeleeEnemy.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/Finite State Machine/States/IState.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Scripts/TESTFiniteStateAgent.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessTransform.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/IGizmosDrawable.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Object Pooling/ObjectPool.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Interfaces/IVitality.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Behavior/Coroutiner.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Data Types/CountdownTimer.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Scripts/TESTCharacter.cs",
+		"/D/My Documents/Unity Projects/[UCQ]NoIdeaProject/Assets/Scripts/Enemies/Enemy.cs",
+		"/D/My Documents/Unity Projects/[UCQ]NoIdeaProject/Assets/Voidless Utilities/Scripts/Data Types/Distance.cs",
+		"/C/Users/lifgw/Desktop/BEHAVIOR_TREE__VERISION6_WORKS.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Editor/TESTS/NSubstituteLinkedListTests.cs",
+		"/D/My Documents/Unity Projects/[UCQ]NoIdeaProject/Assets/Voidless Utilities/Editor/TESTS/NSubstituteLinkedListTests.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Editor/Voidless Utilities/Voidless Node Editor/Nodes/Node.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Ability.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Jump/JumpingAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Jump/Accelerable/AccelerableJumpingAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Dash/Accelerable Dashing Abilities/AccelerableDashingAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Jump/Rigidbody/AccelerableRigidbodyJumpingAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Dash/DashingAbility.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Dash/Dash.cs",
+		"/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Abilities/Dash/AccelerableDashingAbility.cs",
+		"/C/Users/lifgw/AppData/Roaming/Sublime Text 3/Packages/User/cs_unity_ontriggerstays.sublime-snippet",
+		"/C/Users/lifgw/AppData/Roaming/Sublime Text 3/Packages/User/cs_unity_ontriggerexit.sublime-snippet",
+		"/C/Users/lifgw/AppData/Roaming/Sublime Text 3/Packages/User/cs_unity_ontriggerenter.sublime-snippet",
+		"/C/Users/lifgw/AppData/Roaming/Sublime Text 3/Packages/User/cs_unity_oncollisionenter.sublime-snippet",
+		"/C/Users/lifgw/AppData/Roaming/Sublime Text 3/Packages/User/cs_unity_oncollisionexit.sublime-snippet",
+		"/C/Users/lifgw/AppData/Roaming/Sublime Text 3/Packages/User/cs_unity_oncollisionstays.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 185.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Scalar",
+			"scalar",
+			"Speed",
+			"Deg2Rad",
+			"DegToRad",
+			"Rad2Deg",
+			"Deg2Rad",
+			"Rad2Deg",
+			"+= _degrees",
+			"relative",
+			";",
+			"AccelerationTime",
+			"MaxSpeed",
+			"MinSpeed",
+			"Acceleration()",
+			"Set",
+			"Get",
+			"GetCurrentSpeed",
+			"(float)Math",
+			"(float)Math.",
+			"GetSketchName",
+			"Instance",
+			"GetInstance",
+			"\\",
+			"UpdateParents",
+			"///",
+			"accumulatedParentsPosition",
+			"virtual",
+			"virtualParents",
+			"Rotation,",
+			"base",
+			"LogWarning",
+			"&&",
+			"Between",
+			"between",
+			"Vector2",
+			"Vetor2",
+			" break;",
+			", _n.z",
+			", _n.z * _vector.z",
+			", _vector.z",
+			"Vector3",
+			"IVehicle2D",
+			"Character",
+			"<IVehicle2D>",
+			"_monoBehaviour",
+			"erEvent2D(col",
+			"OnHitColliderEvent2D",
+			"IsInLayer",
+			"onHitColliderEvent2D(obj",
+			"onHitColliderEvent",
+			"obj.layer == affectedLayer",
+			"Collision",
+			"Collider",
+			"_gameObject",
+			"HitCollider",
+			"layerMask",
+			"obj",
+			"CheckTouchInputs",
+			"tays",
+			"Enter",
+			"HitcolliderEventTypes",
+			"///",
+			"Enter",
+			"sightLength",
+			"X",
+			"x",
+			"farY",
+			"///",
+			"farY",
+			"x * sightLength",
+			"x * nearPlane",
+			"nearPlane",
+			" * sightLength",
+			";",
+			"points",
+			"/// ",
+			"ILife",
+			"-1.0f",
+			"OnDispatch",
+			"OnRecycle",
+			"OnCreate",
+			"UnityEngine.",
+			"UnityEngine",
+			"IConstrainedValue",
+			"TransformInformation",
+			"parent",
+			"MyObject",
+			"Data",
+			"Parent",
+			"set",
+			"loadingOperation",
+			"_defaultWait",
+			"IState<T>",
+			"onGlobalStateChanged",
+			"List<StateTra",
+			"<T>",
+			"IState<TESTFiniteStateAgent>\n{",
+			"IState<",
+			"\t/// <param name=\"_stateTransitions\">Defined State Transitions.</param>\n",
+			", params StateTransition<T>[] _stateTransitions",
+			"statesTable",
+			"\t/// <param name=\"_subjectState\">Subject's State.</param>\n",
+			"_subjectState, ",
+			"Behavior",
+			"WaitBehavior",
+			"Coroutine",
+			"Behavior",
+			"AgentStatePredicate",
+			"IState",
+			"WaitAndDo",
+			" Wait",
+			"Wait",
+			"WaitBehavior",
+			"Behavior",
+			"HitCollliderEventTypes",
+			"obj);",
+			"SetActive",
+			"_set",
+			"Exit",
+			"nter",
+			"Enter",
+			"nter",
+			"affectedLayers",
+			"///",
+			"/// ",
+			"///",
+			"{ get; set; }"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/My Documents/Adobe/Illustrator/Thesis/Code/Thesis_Code_0",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/My Documents/Math Ecuations/CodeCogs_EquationEditor_EquationCodes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Voidless Utilities/Scripts/Voidless Utilities/VoidlessVector3.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18349,
+								18349
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/My Documents/Unity Projects/[OC]VoidlessUtilities/Assets/Scripts/TESTEventSystem.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Unity3D/UnityC#.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 58.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SublimeProject_VoidlessUtilities.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pveh",
+				"Processing\\PVehicle.java"
+			],
+			[
+				"trans",
+				"Processing\\PTransform2D.java"
+			],
+			[
+				"triangle",
+				"Processing\\PTriangleRenderer.java"
+			],
+			[
+				"pvec",
+				"Processing\\VoidlessPVector.java"
+			],
+			[
+				"en",
+				"PEntity.java"
+			],
+			[
+				"quater",
+				"PQuaternion.java"
+			],
+			[
+				"virtua",
+				"Scripts\\Transform\\VirtualTransform.cs"
+			],
+			[
+				"mater",
+				"Scripts\\Data Types\\MaterialProperty.cs"
+			],
+			[
+				"gameo",
+				"Scripts\\Object Pooling\\GameObjectPool.cs"
+			],
+			[
+				"objec",
+				"Scripts\\Object Pooling\\ObjectPool.cs"
+			],
+			[
+				"compo",
+				"Scripts\\Data Structures\\ComponentMap.cs"
+			],
+			[
+				"voidlessenu",
+				"Scripts\\Voidless Utilities\\VoidlessEnums.cs"
+			],
+			[
+				"extensio",
+				"Scripts\\Voidless Utilities\\VoidlessExtensionMethods.cs"
+			],
+			[
+				"voidlessvec",
+				"Scripts\\Voidless Utilities\\VoidlessVector3.cs"
+			],
+			[
+				"normali",
+				"Scripts\\Data Types\\NormalizedVector2.cs"
+			],
+			[
+				"normalizedvec",
+				"Scripts\\Data Types\\NormalizedVector3.cs"
+			],
+			[
+				"extension",
+				"Scripts\\Voidless Utilities\\VoidlessExtensionMethods.cs"
+			],
+			[
+				"hitcoll",
+				"Scripts\\Hit-Boxes\\HitCollider.cs"
+			],
+			[
+				"voidlessex",
+				"Scripts\\Voidless Utilities\\VoidlessExtensionMethods.cs"
+			],
+			[
+				"pccon",
+				"Scripts\\Input Controller\\PCControllerSetup.cs"
+			],
+			[
+				"input",
+				"Scripts\\InputController.cs"
+			],
+			[
+				"hit",
+				"Scripts\\Hit-Boxes\\HitCollider.cs"
+			],
+			[
+				"fov",
+				"Scripts\\FOV\\FOVSight.cs"
+			],
+			[
+				"basec",
+				"Scripts\\Cameras\\BaseCamera.cs"
+			],
+			[
+				"camera",
+				"Scripts\\Cameras\\CameraViewportPlane.cs"
+			],
+			[
+				"",
+				"Scripts\\Voidless Utilities\\VoidlessXMLSerializer.cs"
+			],
+			[
+				"ivehi",
+				"Scripts\\Interfaces\\Vehicles\\IVehicle2D.cs"
+			],
+			[
+				"ive",
+				"Scripts\\Interfaces\\Vehicles\\IVehicle.cs"
+			],
+			[
+				"ili",
+				"Scripts\\Interfaces\\ILife.cs"
+			],
+			[
+				"selec",
+				"Scripts\\Behavior Trees\\Composites\\SelectorComposite.cs"
+			],
+			[
+				"behav",
+				"Scripts\\Behavior Trees\\BehaviorTree.cs"
+			],
+			[
+				"voidlessinter",
+				"Scripts\\Voidless Utilities\\VoidlessInterfaces.cs"
+			],
+			[
+				"behaviortree",
+				"Scripts\\Behavior Trees\\BaseBehaviorTree.cs"
+			],
+			[
+				"normal",
+				"Scripts\\Numeric Values\\NormalizedProperty.cs"
+			],
+			[
+				"ipool",
+				"Scripts\\Object Pooling\\IPoolObject.cs"
+			],
+			[
+				"game",
+				"Scripts\\Object Pooling\\GameObjectPool.cs"
+			],
+			[
+				"mate",
+				"Scripts\\Data Types\\MaterialProperty.cs"
+			],
+			[
+				"rigid",
+				"Scripts\\Voidless Utilities\\VoidlessRigidbody.cs"
+			],
+			[
+				"ibasev",
+				"Scripts\\Interfaces\\Vehicles\\IBaseVehicle.cs"
+			],
+			[
+				"iveh",
+				"Scripts\\Interfaces\\Vehicles\\IVehicle.cs"
+			],
+			[
+				"tra",
+				"Scripts\\Transform\\TransformInformation.cs"
+			],
+			[
+				"norma",
+				"Scripts\\Data Types\\NormalizedVector3.cs"
+			],
+			[
+				"colo",
+				"Scripts\\Voidless Utilities\\VoidlessColor.cs"
+			],
+			[
+				"maT",
+				"Scripts\\Data Types\\MaterialProperty.cs"
+			],
+			[
+				"icompon",
+				"Scripts\\Interfaces\\Entity ComponentSystem\\IComponent.cs"
+			],
+			[
+				"voidlessa",
+				"Scripts\\Voidless Utilities\\VoidlessAudio.cs"
+			],
+			[
+				"hp",
+				"Scripts\\GUIs\\HPBarGUI.cs"
+			],
+			[
+				"ga",
+				"Scripts\\GUIs\\GaugeBarGUI.cs"
+			],
+			[
+				"icons",
+				"Scripts\\Interfaces\\IConstrainedValue.cs"
+			],
+			[
+				"coroutine",
+				"Scripts\\Voidless Utilities\\VoidlessCoroutines.cs"
+			],
+			[
+				"rang",
+				"Scripts\\Data Types\\Range.cs"
+			],
+			[
+				"math",
+				"Scripts\\Voidless Utilities\\VoidlessMath.cs"
+			],
+			[
+				"gun",
+				"Scripts\\Weapons\\Gun.cs"
+			],
+			[
+				"voidlesscoll",
+				"Scripts\\Voidless Utilities\\VoidlessCollections.cs"
+			],
+			[
+				"statetra",
+				"Scripts\\Finite State Machine\\States\\StateTransition.cs"
+			],
+			[
+				"yield",
+				"Scripts\\Custom Yield Instructions\\VoidlessYieldInstruction.cs"
+			],
+			[
+				"finite",
+				"Scripts\\Interfaces\\Finite State Machine\\FiniteStateMachine.cs"
+			],
+			[
+				"secon",
+				"Scripts\\Custom Yield Instructions\\SecondsDelayWait.cs"
+			],
+			[
+				"gizmos",
+				"Scripts\\Voidless Utilities\\VoidlessGizmos.cs"
+			],
+			[
+				"shoot",
+				"Scripts\\Abilities\\Shoot\\ShootAbility.cs"
+			],
+			[
+				"accelerablerig",
+				"Scripts\\Abilities\\Dash\\Accelerable Dashing Abilities\\AccelerableRigidbodyDashingAbility.cs"
+			],
+			[
+				"dis",
+				"Scripts\\Data Types\\Distance.cs"
+			],
+			[
+				"inpu",
+				"Scripts\\InputController.cs"
+			],
+			[
+				"cue",
+				"Scripts\\Cubemap\\CubemapData.cs"
+			],
+			[
+				"asy",
+				"Scripts\\Scene Loading\\AsynchronousSceneLoader.cs"
+			],
+			[
+				"voidlesstr",
+				"Scripts\\Voidless Utilities\\VoidlessTransform.cs"
+			],
+			[
+				"collections",
+				"Scripts\\Voidless Utilities\\VoidlessCollections.cs"
+			],
+			[
+				"ifinite",
+				"Scripts\\Interfaces\\Finite State Machine\\IFiniteStateAgent.cs"
+			],
+			[
+				"interfac",
+				"Scripts\\Voidless Utilities\\VoidlessInterfaces.cs"
+			],
+			[
+				"istate",
+				"Scripts\\Interfaces\\Finite State Machine\\States\\IState.cs"
+			],
+			[
+				"state",
+				"Scripts\\Finite State Machine\\States\\StateTransition.cs"
+			],
+			[
+				"objectp",
+				"Scripts\\Object Pooling\\ObjectPool.cs"
+			],
+			[
+				"igizmo",
+				"Scripts\\Interfaces\\IGizmosDrawable.cs"
+			],
+			[
+				"voidlessco",
+				"Scripts\\Voidless Utilities\\VoidlessCoroutines.cs"
+			],
+			[
+				"testca",
+				"Scripts\\TESTCharacter.cs"
+			],
+			[
+				"voidlessyi",
+				"Scripts\\Custom Yield Instructions\\VoidlessYieldInstruction.cs"
+			],
+			[
+				"secod",
+				"Scripts\\Custom Yield Instructions\\SecondsDelayWait.cs"
+			],
+			[
+				"ist",
+				"Scripts\\Interfaces\\Finite State Machine\\States\\IState.cs"
+			],
+			[
+				"ivi",
+				"Scripts\\Interfaces\\IVitality.cs"
+			],
+			[
+				"nsubs",
+				"Editor\\TESTS\\NSubstituteLinkedListTests.cs"
+			],
+			[
+				"corout",
+				"Scripts\\Voidless Utilities\\VoidlessCoroutines.cs"
+			],
+			[
+				"coro",
+				"Scripts\\Behavior\\Coroutiner.cs"
+			],
+			[
+				"node",
+				"Editor\\Voidless Utilities\\Voidless Node Editor\\Nodes\\Node.cs"
+			],
+			[
+				"testchar",
+				"Scripts\\TESTCharacter.cs"
+			],
+			[
+				"abii",
+				"Scripts\\Abilities\\Ability.cs"
+			],
+			[
+				"ability",
+				"Scripts\\Abilities\\Ability.cs"
+			],
+			[
+				"acce",
+				"Scripts\\Abilities\\Jump\\Rigidbody\\AccelerableRigidbodyJumpingAbility.cs"
+			],
+			[
+				"accelerable",
+				"Scripts\\Abilities\\Jump\\Accelerable\\AccelerableJumpingAbility.cs"
+			],
+			[
+				"jumpingA",
+				"Scripts\\Abilities\\Jump\\JumpingAbility.cs"
+			],
+			[
+				"dash",
+				"Scripts\\Abilities\\Dash\\Dash.cs"
+			],
+			[
+				"enum",
+				"Scripts\\Voidless Utilities\\VoidlessEnums.cs"
+			],
+			[
+				"extend",
+				"Scripts\\Voidless Utilities\\VoidlessExtensionMethods.cs"
+			],
+			[
+				"itag",
+				"Scripts\\Interfaces\\Effectors\\ITagsAffecter.cs"
+			],
+			[
+				"ilay",
+				"Scripts\\Interfaces\\Effectors\\ILayerAffecter.cs"
+			],
+			[
+				"behavio",
+				"Scripts\\Behavior\\Behavior.cs"
+			],
+			[
+				"inter",
+				"Scripts\\Voidless Utilities\\VoidlessInterfaces.cs"
+			],
+			[
+				"voidlessyil",
+				"Scripts\\Custom Yield Instructions\\VoidlessYieldInstruction.cs"
+			],
+			[
+				"basenode",
+				"Scripts\\Dijkstra Test\\BaseNode.cs"
+			],
+			[
+				"root",
+				"Scripts\\Behavior Trees\\RootSequenceNode.cs"
+			],
+			[
+				"delay",
+				"Scripts\\Custom Yield Instructions\\SecondsDelayWait.cs"
+			],
+			[
+				"transi",
+				"Scripts\\Finite State Machine\\States\\StateTransition.cs"
+			],
+			[
+				"gui",
+				"Scripts\\Debug\\GUIDebbuger.cs"
+			],
+			[
+				"way",
+				"Scripts\\Waypoints\\Waypoint.cs"
+			],
+			[
+				"behavr",
+				"Scripts\\Behavior\\Behavior.cs"
+			],
+			[
+				"pop",
+				"Scripts\\GUIs\\PopUpGUI.cs"
+			],
+			[
+				"voidlessmat",
+				"Scripts\\Voidless Utilities\\VoidlessMath.cs"
+			],
+			[
+				"acceler",
+				"Scripts\\Accelerables\\Accelerable.cs"
+			],
+			[
+				"accele",
+				"Scripts\\Abilities\\Jump\\Accelerable\\AccelerableJumpingAbility.cs"
+			],
+			[
+				"box",
+				"Scripts\\Waypoints\\BoxWaypoint.cs"
+			],
+			[
+				"testch",
+				"Scripts\\TESTCharacter.cs"
+			],
+			[
+				"pool",
+				"Scripts\\Object Pooling\\IPoolObjectPoolData.cs"
+			],
+			[
+				"dela",
+				"Scripts\\TESTDelayedPoolObject.cs"
+			],
+			[
+				"islo",
+				"Scripts\\Object Pooling\\ISlotCollection.cs"
+			],
+			[
+				"ica",
+				"Scripts\\Interfaces\\ICameraVisibleHandler.cs"
+			],
+			[
+				"islot",
+				"Scripts\\Object Pooling\\ISlotCollection.cs"
+			],
+			[
+				"interf",
+				"Scripts\\Voidless Utilities\\VoidlessInterfaces.cs"
+			],
+			[
+				"baseobje",
+				"Scripts\\Object Pooling\\BaseObjectPoolData.cs"
+			],
+			[
+				"iobje",
+				"Scripts\\Object Pooling\\IPoolObjectPoolData.cs"
+			],
+			[
+				"o",
+				"Scripts\\Object Pooling\\ObjectPool.cs"
+			],
+			[
+				"acc",
+				"Scripts\\Abilities\\Jump\\Rigidbody\\AccelerableRigidbodyJumpingAbility.cs"
+			],
+			[
+				"rigidboy",
+				"Scripts\\Abilities\\Jump\\Rigidbody\\RigidbodyJumpingAbility.cs"
+			],
+			[
+				"shooo",
+				"Scripts\\Abilities\\Shoot\\ShootAbility.cs"
+			],
+			[
+				"iproject",
+				"Scripts\\Interfaces\\Abstract Objects\\Weapons\\Shooters\\Projectiles\\IProjectile.cs"
+			],
+			[
+				"displace",
+				"Scripts\\Abilities\\DisplacementAbility.cs"
+			],
+			[
+				"ipro",
+				"Scripts\\Interfaces\\Abstract Objects\\Weapons\\Shooters\\Projectiles\\IProjectile.cs"
+			],
+			[
+				"iab",
+				"Scripts\\Abilities\\Abilies Interfaces\\IAbility.cs"
+			],
+			[
+				"idre",
+				"Scripts\\Abilities\\Abilies Interfaces\\IDirectionTargetedAbility.cs"
+			],
+			[
+				"ishoot",
+				"Scripts\\Abilities\\Abilies Interfaces\\IShootAbility.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 228.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
